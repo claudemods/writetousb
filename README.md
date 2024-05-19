@@ -1,4 +1,5 @@
 writetousb v1.0 please install through dolphin context menu 
+
 this is a service menu for ubuntu distros with plasma 5 or 6 only
 using the application called startup disk creator 
 you will need to download this in the discover store or with this link appstream://usb-creator-kde.desktop 
